@@ -1,0 +1,9 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+a {
+    color: gray;
+}
+h1, h2, h3 {
+    background-color: lightgray;
+}
